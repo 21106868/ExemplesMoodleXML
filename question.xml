@@ -3,7 +3,7 @@
 <answer fraction="100">    
 	<text>true</text>    
 	<feedback>
-		<text>Correct!</text>
+		<text>Bad</text>
 	</feedback> 
 	</answer> 
 <answer fraction="0">    
